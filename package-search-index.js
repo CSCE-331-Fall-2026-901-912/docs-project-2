@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.sharetea"},{"l":"com.sharetea.config"},{"l":"com.sharetea.dao"},{"l":"com.sharetea.db"},{"l":"com.sharetea.models"},{"l":"com.sharetea.ui"},{"l":"com.sharetea.ui.components"},{"l":"com.sharetea.ui.manager"},{"l":"com.sharetea.util"}];updateSearchResults();

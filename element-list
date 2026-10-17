@@ -1,0 +1,9 @@
+com.sharetea
+com.sharetea.config
+com.sharetea.dao
+com.sharetea.db
+com.sharetea.models
+com.sharetea.ui
+com.sharetea.ui.components
+com.sharetea.ui.manager
+com.sharetea.util
